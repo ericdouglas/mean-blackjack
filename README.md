@@ -21,4 +21,4 @@ npm test
 
 ## License
 
-MIT - Eric Douglas 2015
+[MIT License](http://ericdouglas.mit-license.org/) © Eric Douglas
